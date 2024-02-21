@@ -1,0 +1,28 @@
+*{
+    padding : 0px;
+    margin : 0px;
+    box-sizing: border-box;
+}
+
+
+div.contianer{
+    background-color: lightblue;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+a:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+}
